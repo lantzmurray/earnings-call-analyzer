@@ -2,6 +2,10 @@
 
 An AI-powered tool for summarizing earnings call transcripts, classifying sentiment, and extracting key financial insights. Perfect for investors, analysts, and financial professionals.
 
+## Screenshot
+
+![EarningsCall](EarningsCall.png)
+
 ## Features
 
 - **3-Sentence Summary**: Concise overview of earnings call content
